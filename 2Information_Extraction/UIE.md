@@ -33,7 +33,7 @@ Evaluation precision: 0.75472, recall: 0.88889, F1: 0.81633
 
 训练曲线图如下：
 
-![Model Performance](D:\VSWorkSpace\Python\transformer\UIE\output\Model%20Performance.png)
+![Model Performance](D:\VSWorkSpace\Python\transformer\plm\2Information_Extraction\Model%20Performance.png)
 
 ## 四、模型推理
 

@@ -95,7 +95,7 @@ Random Sample 5 text(s) of model output:
 
 训练曲线图如下：
 
-![PPO-Sentiment-Zh](D:\VSWorkSpace\Python\transformer\RLHF\output\PPO-Sentiment-Zh.png)
+![PPO-Sentiment-Zh](D:\VSWorkSpace\Python\transformer\plm\5Reinforcement_Learning_Language_Model\PPO-Sentiment-Zh.png)
 
 ### 2.2 基于人工打分的评论生成机器人（With Human Reward）
 
@@ -132,7 +132,7 @@ prompt>>> 刚收到货，感觉
 result>>> 间 间 店 都 好 差 ， 老 公 说 广 州 南 大 街 街 门 口 呢 间
 ```
 
-![Terminal-Human-Feedback](D:\VSWorkSpace\Python\transformer\RLHF\output2\Terminal-Human-Feedback.png)
+![Model Performance](D:\VSWorkSpace\Python\transformer\plm\5Reinforcement_Learning_Language_Model\Model%20Performance.png)
 
 ### 2.3 基于人工排序训练 Reward Model
 
@@ -170,3 +170,5 @@ best F1 performence has been updated: 0.44481 --> 0.45779
 ```
 
 由于设备限制，训练时间过长，还未能复现最后结果
+
+![Model Performance](D:\VSWorkSpace\Python\transformer\plm\5Reinforcement_Learning_Language_Model\Model%20Performance.png)

@@ -43,7 +43,7 @@ best F1 performence has been updated: 0.23000 --> 0.25000
 
 训练曲线图如下：
 
-![Model Performance](D:\VSWorkSpace\Python\transformer\text_classification\output\Model%20Performance.png)
+![Model Performance](D:\VSWorkSpace\Python\transformer\plm\4Text_Classification\Model%20Performance.png)
 
 ## 四、模型推理
 

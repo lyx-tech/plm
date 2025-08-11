@@ -48,7 +48,7 @@ Evaluation precision: 0.49412, recall: 1.00000, F1: 0.66142, spearman_corr:
 
 训练曲线图如下：
 
-![Model Performance](D:\VSWorkSpace\Python\transformer\text_matching\unsupervised\output\Model%20Performance.png)
+![Model Performance](D:\VSWorkSpace\Python\transformer\plm\1Text_Matching\Model%20Performance.png)
 
 ## 四、模型推理
 

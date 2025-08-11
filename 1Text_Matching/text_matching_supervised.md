@@ -42,7 +42,7 @@ best F1 performence has been updated: 0.88995 --> 0.90821
 
 训练曲线图如下：
 
-![Pointwise Model Performance](D:\VSWorkSpace\Python\transformer\text_matching\supervised\Pointwise_output\Pointwise%20Model%20Performance.png)
+![Pointwise Model Performance](D:\VSWorkSpace\Python\transformer\plm\1Text_Matching\Pointwise%20Model%20Performance.png)
 
 #### 3.1.2 模型推理
 
@@ -92,7 +92,7 @@ best F1 performence has been updated: 0.72656 --> 0.76336
 
 训练曲线图如下：
 
-![DSSM Model Performance](D:\VSWorkSpace\Python\transformer\text_matching\supervised\DSSMoutput\DSSM%20Model%20Performance.png)
+![DSSM Model Performance](D:\VSWorkSpace\Python\transformer\plm\1Text_Matching\DSSM%20Model%20Performance.png)
 
 #### 3.2.2 模型推理
 
@@ -154,7 +154,7 @@ best F1 performence has been updated: 0.66355 --> 0.72642
 
 训练曲线图如下：
 
-![Sentence Transformer Model Performance](D:\VSWorkSpace\Python\transformer\text_matching\supervised\SentenceTransformer_output\Sentence%20Transformer%20Model%20Performance.png)
+![Sentence Transformer Model Performance](D:\VSWorkSpace\Python\transformer\plm\1Text_Matching\Sentence%20Transformer%20Model%20Performance.png)
 
 #### 3.3.2 模型推理
 

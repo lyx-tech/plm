@@ -51,7 +51,7 @@ Evaluation precision: 0.79000, recall: 0.74000, F1: 0.73000
 
 训练曲线图如下：
 
-![Model Performance](D:\VSWorkSpace\Python\transformer\prompt_tasks\PET\output\Model%20Performance.png)
+![Model Performance](D:\VSWorkSpace\Python\transformer\plm\3Prompt_Tasks\Model%20Performance.png)
 
 ## 四、模型推理
 
